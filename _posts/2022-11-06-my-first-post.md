@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+author: "Nathan Sweeney"
 ---
 
 # Welcome
